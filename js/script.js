@@ -1,4 +1,3 @@
-// ------------------- Global State -------------------
 let menuData = {};
 let categories = [];
 let cart = [];
